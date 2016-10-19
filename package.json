@@ -1,0 +1,17 @@
+{
+  "name": "images",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "axios": "0.15.2",
+    "meteor-node-stubs": "^0.2.3",
+    "react": "15.3.2",
+    "react-dom": "15.3.2"
+  },
+  "devDependencies": {
+    "eslint": "3.8.1",
+    "eslint-plugin-react": "6.4.1"
+  }
+}
